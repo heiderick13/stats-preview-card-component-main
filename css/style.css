@@ -90,3 +90,36 @@ h1 {
     letter-spacing: 1px;
     font-size: 9pt;
 }
+
+@media screen and (min-width: 375px) {
+
+    .card {
+        display: flex;
+        max-width: 1200px;
+        margin: 100px auto 10px;
+        flex-direction: flex-end;
+    }
+
+    h1 {
+        padding: 1rem 0;
+    }
+
+    .img {
+        background-image: linear-gradient(to bottom, rgba(130, 50, 150, 0.5), rgba(130, 50, 150, 0.5)), url(../images/image-header-desktop.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: auto;
+        order: 2;
+    }
+
+    .content {
+        padding: 5rem;
+        text-align: start;
+    }
+
+    .stats {
+        display: flex;
+        width: 90%;
+        justify-content: space-between;
+    }
+}
