@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-vufQpOfjMl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See my solutin in FE Mentor](https://www.frontendmentor.io/solutions/responsive-product-preview-card-xcf62eIUFe)
+- Solution URL: [See my solutin in FE Mentor](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-iFLozAoaMA)
 - Live Site URL: [You can check the live site here](https://heiderick13.github.io/stats-preview-card-component-main/)
 
 ## My process
@@ -37,7 +37,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-- [Bootstrap](https://getbootstrap.com/) - CSS/JS library
 ## Author
 
 - Website - [Marcelo Oliveira](https://www.linkedin.com/in/marcelo-herique-ferreira-de-oliveira-403a36243/)
