@@ -46,7 +46,7 @@ h1 {
   min-width: 250px;
   max-width: 350px;
   border-radius: 10px;
-  margin: 1.5rem;
+  margin: 1.5rem auto 1.5rem;
   overflow: hidden;
 }
 
@@ -95,7 +95,7 @@ h1 {
   font-size: 9pt;
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 800px) {
   body {
     height: 100vh;
     display: grid;
