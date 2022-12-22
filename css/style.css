@@ -136,4 +136,8 @@ h1 {
     width: 90%;
     justify-content: space-between;
   }
+
+  footer {
+    place-self: end center;
+  }
 }
