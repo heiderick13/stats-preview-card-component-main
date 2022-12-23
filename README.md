@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Stats preview card component
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-vufQpOfjMl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -37,6 +37,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
+
 ## Author
 
 - Website - [Marcelo Oliveira](https://www.linkedin.com/in/marcelo-herique-ferreira-de-oliveira-403a36243/)
